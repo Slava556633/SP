@@ -1,0 +1,10 @@
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное программирование1.csproj.AssemblyReference.cache
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное_программирование1.Form1.resources
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное_программирование1.Properties.Resources.resources
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное программирование1.csproj.GenerateResource.cache
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное программирование1.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\bin\Debug\Системное программирование1.exe.config
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\bin\Debug\Системное программирование1.exe
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\bin\Debug\Системное программирование1.pdb
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное программирование1.exe
+C:\Users\Undertaker\source\repos\Системное программирование1\Системное программирование1\obj\Debug\Системное программирование1.pdb
